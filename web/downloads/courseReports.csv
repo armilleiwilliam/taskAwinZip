@@ -1,0 +1,202 @@
+Id,"Course Name",University,"Students per course"
+"List of courses"
+1,"Computer Science","University of Nairobi",1
+2,"Industrial Design","Sheffield, University of",0
+3,"Digital Forensics","Deakin University",0
+4,Psychology,"University of Michigan",0
+5,"Health Science","University of Science and Technology Beijing",0
+6,Engineering,"Middlebury College",0
+7,"Social Care","Elmhurst College",2
+8,Maths,"Griffith University",1
+9,"English Literature","Sauder School of Business",1
+10,"English Language","University of Southern Maine",0
+11,Business,"Nanyang Academy of Fine Arts",0
+12,Law,"Aalto University",1
+13,"European Law","Jonkoping University College",0
+14,"Business Information Systems","Florida International University",0
+15,"Software Engineering","Lebanese American University",1
+16,"Product Design","Imperial College London",1
+17,Computing,"Jiangxi University of Finance and Economics",0
+18,Advertising,"Regensburg University",0
+19,"Banking - Commercial","New York University",0
+20,Art,"Ealing & West London College",1
+21,"Banking - Investment","University of Witten/Herdecke",0
+22,Auditing/Tax,"Hankuk University of Foreign Studies",0
+23,E-Business,"Warburg Institute",0
+24,Arts/Entertainment/Media,"Liverpool John Moores University",0
+25,Automotive,"Erasmus University Rotterdam",0
+26,Accountancy,"University of South Australia",0
+27,Design,"University of Groningen",0
+28,"Msc Construction Project Management","Drake University",0
+29,Music,"University of Szeged",0
+30,"Business Management","Southampton, University of",0
+31,"Politics And Eastern European Studies With A Year Abroad","Abingdon and Witney College",0
+32,"Politics And English","University of Tsukuba",0
+33,"International Politics","Newcastle University",0
+34,"IMML German","Aalborg University",2
+35,"BA Modern Languages With Business Management","Chungang University",1
+36,"BEng Mechanical Engineering","Padjadjaran University",1
+37,"Business And Management","PACE University",0
+38,"Business And Management (Accounting)","Humboldt University",0
+39,History,"Chulalongkorn University",1
+40,Geography,"University of the Philippines - Los Banos",1
+41,PPS,"Sacred Heart University",1
+42,"Environment, Society And Development","Lodz University",1
+43,"Sport Exercise Science","National Sun Yat-sen University",2
+44,"Forensic Science","Morehouse College",1
+45,"Criminology And Social Policy","Dublin City University",0
+46,Commerce,"Columbia Business School",0
+47,"Bar Professional Training Course","Ecole Centrale de Paris",0
+48,BPTC,"University of Maine",0
+49,"Creative Writing","Kasetsart University",0
+50,"Forensic Science With Crimonology","Glasgow School of Art",0
+51,"Ll.b Law With Criminology","Molloy College",1
+52,"Global Crime, Justice, Security","Swiss School of International Banking",1
+53,Linguistics,"Cooper Union",0
+54,"LLB LAW","Obafemi Awololo University",2
+55,"History And Politics","Turku University",0
+56,LLB,"Management Development Institute",1
+57,"BA, Hons Accounting And Finance","Ochanomizu Univ",2
+58,"Accountancy & Business Law","Winthrop University",0
+59,"Human Resource Management",ENSAE,0
+60,"Accounting And Financial Management","University of Waterloo",0
+61,"Biomedical Science","ESSEC Business School (Paris)",1
+62,"French And History","Graduate University of Chinese Academy of Sciences",1
+63,"BBA Management","Barnet College",2
+64,"German And Management","Ecole Nationale Superieure de Techniques Avancees",1
+65,"Biological Sciences","University of KwaZulu Natal",0
+66,"Law LLB","The Grimsby Institute of Further & Higher Education",0
+67,"History (BA Hons)","Flinders University",0
+68,"Economic And Social History","Universidad Internacional",0
+69,"Process Design Engineering","Villanova University",0
+70,LPC,"Universidad Adolfo Ibanez (Creo que es Chilena tambien)",0
+71,Medicine,"University of St. La Salle - Bacolod",0
+72,"Human Resource Management And Organisational Analysis","Universita degli Studi di Venezia",0
+73,BA,"University of Bonn",1
+74,MBA,"SUNY Fredonia",1
+75,"BSc Economics","Universidad Ramon Llull",1
+76,"Economics And Politics","Universita Cattolica del Sacro Cuore",1
+77,"Geography And Geology","Delhi University",0
+78,"MSc Digital Anthropology","The State University of New Jersey",0
+79,Neuroscience,"Hobart and William Smith",1
+80,"International Relations","Ealing & West London College",1
+81,"LLM In International Business Law","Institut Superieur des Affaires (ISA)",1
+82,"Modern Languages","University of Newcastle",1
+83,Politics,"American University of Kuwait",1
+84,"Environmental Science","Duisenberg School of Finance",0
+85,"LLB Law With European Law","Aberdeen, University of",1
+86,Mathematics,"Royal Academy of Music",1
+87,"Natural Sciences","DIW Berlin",2
+88,"Law With Criminology","Universidad Panamericana",2
+89,"Open Degree","Parahyangan University",0
+90,"Bachelor Of Computer Science Engineering","Malaysia University of Science and Technology",1
+91,Philosophy,"Bishop Grosseteste College",0
+92,PPE,"Scuola Normale Superiore (Pisa)",1
+93,"Applied Accounting","Friedrich Alexander University",0
+94,"LAW AND INTERNATIONAL RELATIONS",BPP,0
+95,"Social Work","LUISS (Libera Universita Internazionale degli Studi Sociali)",0
+96,HR,"National Tsing-Hua University",1
+97,"Wildlife Conservation With Zoo Biology","University of San Jose - Recoletos",0
+98,Chinese,"University of Connecticut",1
+99,"Maths And Accounting","Asia Pacific College",0
+100,"Business And HR Management","Miriam College",0
+101,"Law And French","University of Central Florida",2
+102,"Business Analysis And Consulting","Scuola Superiore S.Anna (Pisa)",1
+103,"Health And Social Care","UHI Millennium Institute",0
+104,"Social. Science","Moscow State Technical University",1
+105,"International Commercial & Maritime Law","Bandung Institute of Technology",2
+106,"BSc Computer Networks","Coastal Carolina University",0
+107,"Historical Archaeology","Shanghai Maritime University",0
+108,"English Literature And Politics","Creighton University",0
+109,Chemistry,"Universita degli Studi di Roma/La Sapienza",0
+110,Business/Management,"Queen Mary, University of London",0
+111,Other,"Wilmington College",1
+112,Biology,"UHI Millennium Institute",3
+113,Economics,"Molloy College",0
+114,Languages,"Camberwell College of Arts",0
+115,English,"University of Nurtingen",0
+116,Physics,"Indian Institute of Management, Indore",0
+117,Sciences,"Richmond School of Business",1
+118,Classics,"College of the Holy Cross",0
+119,"Information Technology","University of Washington",1
+120,Education/Teaching,"Sabhal Mor Ostaig",1
+121,"Electronic And Electrical Engineering","Universidad Francisco Gavidia",0
+122,"Civil Engineering","Universita degli Studi di Firenze",2
+123,Agriculture,"Moscow University of People's Friendship",0
+124,"Management Consultancy","Clark Atlanta University",0
+125,"Human Resources","University of the Philippines - Pampanga",1
+126,"Financial Management","University of Limerick",0
+127,Marketing,"Scarborough Campus, University of Hull",0
+128,Mathematics/Statistics,"Abertay, University of",1
+129,"Chemical Engineering","Universita degli Studi di Padova",1
+130,Banking/Finance,"Winchester, University of",1
+131,"Sport/Sports Management","Schiller University",0
+132,"Business Analytics","College of Staten Island - Macaulay Honors College",0
+133,Retail/Merchandising,"New York University",1
+134,"Business Intelligence/Market Research","St. Xavier's College",0
+135,Actuarial,"St. John's University",0
+136,"Material And Mineral Engineering",ESB-Reutlingen,0
+137,"Computer And Systems Engineering","City University of Hong Kong",0
+138,Legal/Law,"Moscow State Technical University",0
+139,Pharmaceutical,"US Military Acedemy",1
+140,Environmental,"Dundee College",1
+141,Science/Research,"Royal Veterinary College",1
+142,"Food And Drink","Universita Cattolica di Milano",1
+143,"Mechanical Engineering","Doncaster College",2
+144,Architecture,"Singapore Polytechnic",0
+145,"Charity/Non Profit","University of the Witwatersrand",0
+146,"Aeronautical Engineering","University of Western Ontario",1
+147,Medical/Health,"Chuo University",0
+148,Administration/Secretarial,"Le Moyne College",1
+149,"Public Sector/Governmental","European Business School (Oestrich-Winkel)",0
+150,Anthropology,"Lebanese American University",1
+151,"Property/Real Estate","Brooklyn College",0
+152,"Banking - Retail","Hebrew University",0
+153,Sociology,"University of Southern Maine",1
+154,"Mathematical & Computer Sciences","XLRI, Jamshedpur",0
+155,"Business & Management","East China Normal University",0
+156,"Arts & Humanities","RCN Institute",0
+157,"Physical Earth & Biological Sciences","University of Calgary",1
+158,"Social Sciences Incl Human Geography","European Business School",0
+159,"Accountancy Banking & Finance","University of Pennsylvania",0
+160,"BA(Hons) Politics And Modern History","Askham Bryan College",1
+161,"Law LLB (Hons)","University of Phoenix",0
+162,"LL.B (Hons)","Barking College",0
+163,"LLB Law With Politics","Blackburn College",1
+164,"(BA) English Literature And American Studies","Birmingham, University of",1
+165,"Law With Politics LLB","Mahidol University",1
+166,"International Business, Finance & Economics","La Trobe University",0
+167,"MSc International Politics","University of the Philippines - Diliman",0
+168,"Business And Law","ESCP Europe (London)",0
+169,"European Studies (Politics, History, French, Italian)","Xi'an Jiaotong university",0
+170,"LLM Laws","SKEMA Business School",0
+171,"Business & Law","Blackburn College",0
+172,LL.M,"University of Koln",1
+173,"German And History","Nottingham Trent University",0
+174,"LLM In International Finance And Banking Law","St Andrews, University of",1
+175,"Comparative Literature","Hunan University",1
+176,LLM,"Ghent University",0
+177,"Master Of Law","Arizona State University",0
+178,"MSc Social Cognition","XLRI, Jamshedpur",1
+179,"English Law And German Law","Stirling, University of",1
+180,"English Law & Hong Kong Law","Edinburgh, University of",1
+181,"LLB 2014","Edinburgh, University of",0
+182,"Law LLB 2015","Bradford, University of",0
+183,"Politics, Philosophy And Law LLB","Leuphana University",0
+184,"LLM In International Commercial Law","UAM University",0
+185,"BA Management And Leadership With European Study","Polytechnic di Torino",1
+186,"Philosophy, Politics And Economics","Trinity College Carmarthen",0
+187,"LL.B Law","Clark Atlanta University",1
+188,"European Law (Maitrise)","Providence College",2
+189,"LLB (European) Law","City of Sunderland College",1
+190,"BA Economics","University College Birmingham",0
+191,"Anthropology And Law","Xidian University",0
+192,"LLM In Banking And Finance","Cardiff University",1
+193,"BSc Philosophy, Logic And Scientific Method","ESCP Europe (London)",1
+194,"LLM Tax Law","UAM University",0
+195,"Law (3yr LLB)","Koc University",0
+196,"Law And Business","Brighton College of Technology",0
+197,"Law And European Law (Qualifying Year Abroad In English)","Saint Mary's College of Meycauayan",1
+198,"Law (3 Years)","Jacksonville University",0
+199,"Law (M100)","Hofstra University",0
+200,"Law And Business Studies","Beijing Institute of Technology",0

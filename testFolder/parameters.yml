@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: merchantsTransactionsDouble
+    database_user: wa
+    database_password: wa
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: 4e0f1705e3a15ec17ab11f32c29efb009f1c2f2f

@@ -1,0 +1,20 @@
+# Learn more about services, parameters and containers at
+# http://symfony.com/doc/current/service_container.html
+parameters:
+#    parameter_name: value
+
+services:
+
+  MerchantTransactions.classes.exception_handler:
+          class: MerchantTransactionsBundle\Classes\ExceptionHandler
+          public: true
+
+  MerchantTransactions.classes.currencies_handler:
+          class: MerchantTransactionsBundle\Classes\CurrenciesHandler
+          arguments: ["@doctrine.orm.entity_manager"]
+          public: true
+
+  ExportData.classes.csv_generator:
+          class: ExportDataBundle\Classes\GenerateCsv
+          arguments: ["@doctrine.orm.entity_manager","%kernel.default_locale%"]
+          public: true
